@@ -11,7 +11,6 @@ get all you need from google image by just a simple javascript class that return
       x.setAttribute("height",'480');
       x.setAttribute("width",'320');
       x.setAttribute("alt","none");
-      document.querySelector('.input').appendChild(x);
-    })
+      document.querySelector('.content').appendChild(x); })
      ```
      >NB/ if you need more than the src you can search in the package for **res.images** variable and console it
