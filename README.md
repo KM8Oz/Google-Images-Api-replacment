@@ -13,4 +13,5 @@ get all you need from google image by just a simple javascript class that return
       x.setAttribute("alt","none");
       document.querySelector('.content').appendChild(x); })
 ```
-     >NB/ if you need more than the src you can search in the package for **res.images** variable and console it
+     > #### npm i googleimgkmoz
+     > NB/ if you need more than the src you can search in the package for **res.images** variable and console it
